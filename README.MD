@@ -1,4 +1,4 @@
-# 🍷 Wine Parser - Универсальный парсер для винных магазинов
+#! 🍷 Wine Parser - Универсальный парсер для винных магазинов
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![Scrapy](https://img.shields.io/badge/Scrapy-2.8+-green.svg)](https://scrapy.org/)
